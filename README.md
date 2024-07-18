@@ -56,13 +56,7 @@ Create a `.env` file in the root directory and configure the following variables
 - **/prisma**: Prisma schema and migrations
 - **/public**: Public assets
 
-## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to customize this README based on any additional details or specific instructions you want to include.
 ![Screenshot from 2023-12-26 19-19-25](https://github.com/Saptarshi1810/bees/assets/96665747/e16ab0fe-e046-4aee-b62c-caaf71064cde)
 ![Screenshot from 2023-12-26 19-21-04](https://github.com/Saptarshi1810/bees/assets/96665747/087ce5fa-c39b-48ff-82dd-6c7dcbf6b217)
 ![Screenshot from 2023-12-26 19-21-13](https://github.com/Saptarshi1810/bees/assets/96665747/7359c52a-c88b-46c9-887f-51ce1b408a04)
