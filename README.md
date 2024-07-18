@@ -1,6 +1,3 @@
-Here's a README for the [bees repository](https://github.com/Saptarshi1810/bees):
-
----
 
 # Bees Project
 
